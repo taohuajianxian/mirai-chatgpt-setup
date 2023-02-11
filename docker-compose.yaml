@@ -14,17 +14,17 @@ services:
     environment:
       #
       # QQ 账号
-      QQ: 123456789
+      QQ: 692308487
 
       # QQ 密码
-      QQ_PASS: qq_password
+      QQ_PASS: wazf2645756
 
       # 伪装登录设备
       # ANDROID_PHONE / ANDROID_PAD / ANDROID_WATCH / MACOS / IPAD
       DEVICE: ANDROID_PAD
 
       # OpenAI session token
-      SESSION_TOKEN: eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..
+      SESSION_TOKEN: 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
 
       # API KEY (如果你不知道这是什么，可以不用管)
       API_KEY: AnyRandomAPIKey
